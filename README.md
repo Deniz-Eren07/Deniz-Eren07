@@ -1,4 +1,4 @@
-@Deniz-Eren07
+@Deniz-Eren
 Hi! I'm [Deniz_Eren], a Computer Programming student with a passion for software development.
 I love learning new technologies and applying them to my projects. 
 On my GitHub profile, you can explore my projects and contribute to them.
