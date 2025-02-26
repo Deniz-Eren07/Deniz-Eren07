@@ -1,10 +1,10 @@
 @Deniz-Eren
-Hi! I'm [Deniz_Eren], a Computer Programming student with a passion for software development.
+Hi! a Computer Programming student with a passion for software development.
 I love learning new technologies and applying them to my projects. 
 On my GitHub profile, you can explore my projects and contribute to them.
 Looking forward to learning together on this software journey!
 ---------------------------------------------------------------------------------------------
-Merhaba! Ben [Deniz_Eren], Bilgisayar Programcılığı öğrencisiyim ve yazılıma büyük bir merakım var.
+Merhaba! , Bilgisayar Programcılığı öğrencisiyim ve yazılıma büyük bir merakım var.
 Yeni teknolojileri öğrenip projelerimde uygulamayı seviyorum.
 GitHub profilimde projelerimi inceleyebilir ve katkıda bulunabilirsiniz. 
 Yazılım yolculuğunda birlikte öğrenmek dileğiyle!
